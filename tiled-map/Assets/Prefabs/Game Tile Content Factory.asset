@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8eece8bff785c4a6da73b5ff15cfbe8c, type: 3}
+  m_Name: Game Tile Content Factory
+  m_EditorClassIdentifier: 
+  emptyPrefab: {fileID: 6774367682587871147, guid: 10c1c9c7e55ad41d9aacf719b0a3fdac,
+    type: 3}
+  wallPrefab: {fileID: 2043985386498664667, guid: 94b09466d3445469185f3ee32924b476,
+    type: 3}
+  wall_1Prefab: {fileID: 3912423990850113797, guid: cf8e4a199867e40119615f84751327b8,
+    type: 3}
+  content_1: {fileID: 6406038177797994489, guid: b80864008145b4a069b478a5132d82a9,
+    type: 3}
+  content_2: {fileID: 2601245974838506243, guid: 09cc626d2ebb642ca82644c5655c5ee0,
+    type: 3}
+  content_3: {fileID: -1509408042783278526, guid: 23eb23efe869b441b955b66f56248618,
+    type: 3}
+  content_4: {fileID: 6006780766056780922, guid: 95f5b8bdc8fa74a9e9ae091bbd1e8e9e,
+    type: 3}
+  content_5: {fileID: 6767939556024957547, guid: 27e0e11f3b25147a29d6bf386b9bd2f4,
+    type: 3}
